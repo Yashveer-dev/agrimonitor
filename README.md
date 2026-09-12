@@ -1,6 +1,6 @@
 # 🌾 Smart India AgriMonitor
 ### **Next-Gen Precision Agriculture Decision-Support System**
-*Developed for Smart India Hackathon (SIH) | Agriculture, FoodTech & Rural Development*
+ *Agriculture, FoodTech & Rural Development*
 
 > *"Data-Driven Decisions for a Sustainable Future — Healthy Soil, Brighter Tomorrow"*
 
