@@ -278,7 +278,7 @@ end
 
 ---
 
-## 💯 SIH Evaluator Verification & Rubric Matrix
+## 💯 Evaluator Verification & Rubric Matrix
 
 | Rubric Criteria | Evaluation Parameter | Verification in Smart India AgriMonitor | Status |
 | :---: | :--- | :--- | :---: |
